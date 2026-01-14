@@ -62,4 +62,3 @@ Numeric method:
 - 5 = read + execute
 - 4 = read only
 
-Add Linux permissions notes
