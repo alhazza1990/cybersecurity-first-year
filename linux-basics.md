@@ -28,3 +28,38 @@ Deletes files or folders.
 
 ## 🎯 Goal
 Learn Linux commands and document them for cybersecurity use.
+
+---
+
+## 🔐 File Permissions
+
+### 🔹 ls -l
+Shows file permissions.
+
+
+
+Example output:
+
+Meaning:
+- r = read
+- w = write
+- x = execute
+
+---
+
+### 🔹 chmod
+Changes file permissions.
+
+Give execute permission:
+
+Numeric method:
+
+---
+
+## 📌 Permission Numbers
+- 7 = read + write + execute
+- 6 = read + write
+- 5 = read + execute
+- 4 = read only
+
+Add Linux permissions notes
